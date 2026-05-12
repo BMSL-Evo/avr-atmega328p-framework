@@ -1,0 +1,28 @@
+# AVR Build Files
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+*.a
+
+# Debug / Listing Files
+*.lss
+*.lst
+*.eep
+
+# Dependency files
+*.d
+
+# VS Code
+.vscode/
+
+# Other IDEs
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary
+*.swp
